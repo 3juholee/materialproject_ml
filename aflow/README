@@ -1,0 +1,7 @@
+9/5/2016
+nomatgen_list : complement list of ALOWLIB compounds
+ICSD-IDs-matproj.txt: ICSD ids in matproj
+tagged_list.txt: all AFLOWLIB compounds
+
+api_icsd_aflow.py: the main execution program
+
